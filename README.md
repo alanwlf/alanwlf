@@ -1,16 +1,18 @@
-## Hi there 👋
+  OLÁ!! SOU ANDRÉ ALAN.
 
-<!--
-**alanwlf/alanwlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*🔭 atualmente sou um programador front-end
 
-Here are some ideas to get you started:
+*🌱 estou estudando PH e JAVA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*😄 pronomes: ele/dele
+
+<hr>
+
+<div style="display: flex; gap: 30px; width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="height: 80px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="height: 65px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 70px;" />
+</div>
+
+
+
