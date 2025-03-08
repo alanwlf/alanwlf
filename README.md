@@ -2,7 +2,7 @@
 
 *🔭 atualmente sou um programador front-end
 
-*🌱 estou estudando PH e JAVA.
+*🌱 estou estudando PHP e JAVA.
 
 *😄 pronomes: ele/dele
 
