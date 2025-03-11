@@ -6,10 +6,12 @@
 
 ###
 
-<div align="left">
-  <img src="https://x.com/aLanxshl/likes" width="52" height="40" alt="twitter logo"  />
+<div align="center">
+  <a href="https://x.com/aLanxshl" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000&logoColor=black&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
   <a href="https://www.instagram.com/an_alanps/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
 
@@ -39,8 +41,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alanwlf/alanwlf/output/snake.svg" alt="Snake animation" />
+<p align="left">__________________________________________________________________________________________________</p>
 
 ###
