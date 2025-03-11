@@ -6,11 +6,20 @@
 
 ###
 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://www.instagram.com/an_alanps/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
 <h2 align="center">sobre mim:</h2>
 
 ###
 
-<p align="left">✨ sou um programador front-end(no momento).<br>📚 estou aprendendo agora PHP e JAVA, e depois quero ir para um C++ ou python.<br><br>🎯 metas: minha metas pra esse ano e me estabelecer só como programador e focar nisso ate o fim da minha vida.<br><br>🎲 fato engraçado sobre mim: sou horrível em exatas, eu comecei a gostar de programação depois que vi um  youtuber fazendo o jogo do pac man no javascript, ae eu fiquei tao interessado de como ele fez e acabei pesquisando outras coisas sobre e gostei mais ainda.</p>
+<p align="left">✨ sou um programador front-end(no momento).<br>📚 estou aprendendo agora PHP e JAVA, e depois quero ir para um C++ ou python.<br><br>🎯 metas: minha metas pra esse ano e me estabelecer só como programador e focar nisso ate o fim da minha vida, e meta da vida ter minha própria empresa,<br><br>🎲 fato engraçado sobre mim: sou horrível em exatas, eu comecei a gostar de programação depois que vi um  youtuber fazendo o jogo do pac man no javascript, ae eu fiquei tao interessado de como ele fez que acabei pesquisando outras coisas sobre o assunto e ai gostei mais ainda.</p>
 
 ###
 
@@ -29,6 +38,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/alanwlf/alanwlf/output/snake.svg" alt="Snake animation" />
 
