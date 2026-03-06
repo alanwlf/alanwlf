@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ sou um programador front-end(no momento).<br>📚 estou aprendendo agora PHP e JAVA, e depois quero ir para um C++ ou python.<br><br>🎯 metas: minha metas pra esse ano e me estabelecer só como programador e focar nisso ate o fim da minha vida, e meta da vida ter minha própria empresa,<br><br>🎲 cansei de ficar sentado esperando um destino e simplesmente vou lá e fazer isso acontecer sem mais e sem menos, só seguindo em  frente e n olhar para trás.</p>
+<p align="left">✨ sou um programador front-end(no momento).<br><br><br>🎯 metas: minha metas pra esse ano e me estabelecer só como programador e focar nisso ate o fim da minha vida, e meta da vida ter minha própria empresa,<br><br>🎲 cansei de ficar sentado esperando um destino e simplesmente vou lá e fazer isso acontecer sem mais e sem menos, só seguindo em  frente e n olhar para trás.</p>
 
 ###
 
