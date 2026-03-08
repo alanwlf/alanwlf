@@ -1,4 +1,4 @@
-<h1 align="left">hii!! 👋 print("hello world").</h1>
+<h1 align="left">hii!! 👋 console.log("hello world").</h1>
 
 ###
 
